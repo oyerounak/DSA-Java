@@ -17,6 +17,7 @@ class Main {
             //calling factorial() method 
             //of class Factorial
             System.out.println(obj.factorial(N));
+            sc.close();
         
     }
 }
