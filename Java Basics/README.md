@@ -13,4 +13,5 @@ Welcome to the Java Basics Tutorial! This guide is designed to help you get star
 - [Looping](https://github.com/oyerounak/DSA-Java/tree/main/Java%20Basics/5.Looping)
 - [Functions and Methods](https://github.com/oyerounak/DSA-Java/tree/main/Java%20Basics/6.Functions)
 - [Patterns(To Understanding Looping)](https://github.com/oyerounak/DSA-Java/tree/main/Java%20Basics/7.Patterns%20Print)
+- [Arrays in Java](https://github.com/oyerounak/DSA-Java/tree/main/Java%20Basics/8.Arrays)
 - [String](https://github.com/oyerounak/DSA-Java/tree/main/Java%20Basics/9.String)
